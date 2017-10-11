@@ -1,0 +1,30 @@
+
+.container_custom{
+  height: 100vh
+}
+
+.row_custom{
+  height: 9.09%;
+  margin: 1
+}
+
+
+.grey {
+	background-color: grey;
+	height: 100%;
+}
+
+.orange {
+	background-color: orange;
+	height: 100%;
+}
+
+.yellow {
+	background-color: yellow;
+	height: 100%;
+}
+
+
+.black {
+	background-color: black;
+	height: 100%;
